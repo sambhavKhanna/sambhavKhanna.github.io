@@ -49,7 +49,7 @@ title: "Projects"
         </div>
     </div>
     <p style="justify-content: left">A Multi modal chatbot made using llava-phi3 model, pulled locally using Ollama. The UI is made using Streamlit.</p>
-    <a href="http://github.com/sambhavKhanna"><i aria-hidden="true" title="GitHub"
+    <a href="https://github.com/sambhavKhanna/llava-phi-3-chatbot"><i aria-hidden="true" title="GitHub"
         class="fa fa-github fa-2x"></i> </a>
 </div>
 <div class="project-card">
@@ -68,7 +68,7 @@ title: "Projects"
         </div>
     </div>
     <p style="justify-content: left">A Multi Layer Perceptron made from scratch, the implementation is similar to Pytorch. Implemented backpropagation and gradient descent algorithms.</p>
-    <a href="http://github.com/sambhavKhanna"><i aria-hidden="true" title="GitHub"
+    <a href="https://github.com/sambhavKhanna/MLP"><i aria-hidden="true" title="GitHub"
         class="fa fa-github fa-2x"></i> </a>
 </div>
 <div class="project-card">
@@ -87,7 +87,7 @@ title: "Projects"
         </div>
     </div>
     <p style="justify-content: left">Inspired by Mark Zukerberg's Face Mash, I made a shell script to download html pages of provided urls. Implemented a html parser in C++ to download the images from the links provided in the html.</p>
-    <a href="http://github.com/sambhavKhanna"><i aria-hidden="true" title="GitHub"
+    <a href="https://github.com/sambhavKhanna/Curl"><i aria-hidden="true" title="GitHub"
         class="fa fa-github fa-2x"></i> </a>
 </div>
 <div class="project-card">
@@ -103,7 +103,7 @@ title: "Projects"
         </div>
     </div>
     <p style="justify-content: left">A ChatGPT plugin used to interact with the Solana blockchain. It can access the account balance, NFTs owned and transaction history provided a public key.</p>
-    <a href="http://github.com/sambhavKhanna"><i aria-hidden="true" title="GitHub"
+    <a href="https://github.com/sambhavKhanna/solana-chatgpt-plugin"><i aria-hidden="true" title="GitHub"
         class="fa fa-github fa-2x"></i> </a>
 </div>
 <div class="project-card">
@@ -125,7 +125,7 @@ title: "Projects"
         </div>
     </div>
     <p style="justify-content: left">A chat app inspired by Whatsapp, made using MERN stack and containerized using Docker. The application is deployed on AWS EC2.</p>
-    <a href="http://github.com/sambhavKhanna"><i aria-hidden="true" title="GitHub"
+    <a href="https://github.com/sambhavKhanna/Chat-app"><i aria-hidden="true" title="GitHub"
         class="fa fa-github fa-2x"></i> </a>
 </div>
 <div class="project-card">
@@ -147,7 +147,7 @@ title: "Projects"
         </div>
     </div>
     <p style="justify-content: left">A course selling app, made using MERN stack and using   Recoil.js for state management.</p>
-    <a href="http://github.com/sambhavKhanna"><i aria-hidden="true" title="GitHub"
+    <a href="https://github.com/sambhavKhanna/course-selling-app"><i aria-hidden="true" title="GitHub"
         class="fa fa-github fa-2x"></i> </a>
 </div>
 <div class="project-card">
@@ -166,7 +166,7 @@ title: "Projects"
         </div>
     </div>
     <p style="justify-content: left">The model uses historical stock price data to train polynomial regression models and predict future stock prices. The models' accuracy is evaluated using R-squared values.</p>
-    <a href="http://github.com/sambhavKhanna"><i aria-hidden="true" title="GitHub"
+    <a href="https://github.com/sambhavKhanna/Stock-Predictor"><i aria-hidden="true" title="GitHub"
         class="fa fa-github fa-2x"></i> </a>
 </div>
 <div class="project-card">
@@ -179,7 +179,7 @@ title: "Projects"
         </div>
     </div>
     <p style="justify-content: left"> Implemented a simple encryption and digital signature scheme using Python. The code defines a set of functions that allow a user to encrypt and decrypt messages, generate individual keys for encryption, and create digital signatures for messages using a public-private key pair.</p>
-    <a href="http://github.com/sambhavKhanna"><i aria-hidden="true" title="GitHub"
+    <a href="https://github.com/sambhavKhanna/RSA-Algorithm"><i aria-hidden="true" title="GitHub"
         class="fa fa-github fa-2x"></i> </a>
 </div>
 <br>
