@@ -5,7 +5,7 @@ tags:
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<div style="display: flex; justify-content: space-between">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <div>
       <h1>Sambhav Khanna</h1>
       Computer Science @ UWaterloo
@@ -18,7 +18,7 @@ tags:
       <a href="mailto:sambhav.khanna@uwaterloo.ca">sambhav.khanna@uwaterloo.ca</a>
       <br>
       <br>
-      <div style="display: flex; justify-content: space-between;">
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
           <div>
               <a href="http://github.com/sambhavKhanna"><i aria-hidden="true" title="GitHub"
                       class="fa fa-github fa-2x"></i> </a>
@@ -34,7 +34,7 @@ tags:
       </div>
       <br>
       <br>
-      <div style="display: flex; justify-content: space-between;">
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
           <div>
             <a href="resume.pdf">resume</a>
           </div>
@@ -46,7 +46,7 @@ tags:
           </div>
       </div>
       <br>
-      <div style="display: flex;">
+      <div style="display: flex; flex-wrap: wrap;">
           <div style="margin-right: 15px;">
             <a href="courses">courses</a>
           </div>
