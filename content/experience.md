@@ -4,7 +4,7 @@ title: "Experiences"
 
 <br>
 
-**Full Stack Engineer Intern**
+<!-- **Full Stack Engineer Intern**
 
 <div style="display: flex; justify-content: space-between;">
     <div>
@@ -60,7 +60,7 @@ caching. Deployed the image on Azure.
 Optimized the query performance, enhancing the processing speed by 20%. Built a robust SQL backend by
 implementing triggers and stored procedures for 15 relations.
 </li>
-</ul>
+</ul> -->
 
 <br>
 
