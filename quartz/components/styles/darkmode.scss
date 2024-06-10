@@ -30,19 +30,19 @@
 }
 
 :root[saved-theme="dark"] .toggle ~ label {
-  & > #dayIcon {
+  & > #nightIcon {
     opacity: 0;
   }
-  & > #nightIcon {
+  & > #dayIcon {
     opacity: 1;
   }
 }
 
 :root .toggle ~ label {
-  & > #dayIcon {
+  & > #nightIcon {
     opacity: 1;
   }
-  & > #nightIcon {
+  & > #dayIcon {
     opacity: 0;
   }
 }
