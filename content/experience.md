@@ -8,7 +8,7 @@ title: "Experiences"
 
 <div style="display: flex; justify-content: space-between;">
     <div>
-    <b>Tallgeess AI</b>, San Francisco
+    <b>SimProBot Inc</b>, San Francisco
     </div>
     <div>
     Apr 2024 – Jun 2024
