@@ -80,7 +80,7 @@ Welcome!
 
 I had a final average of 97% in highschool in a total of 5 subjects and, receieved President's Scholarship and International Mathematics Scholarship worth a total of 25,000 CAD by the University of Waterloo.
 
-If you want to know more about me or want to share something interesting, feel free to reach out to me at <a href="mailto:sambhav.khanna@uwaterloo.ca" target="_blank">sambhav.khanna@uwaterloo.ca</a>.
+If you want to know more about me or want to share something interesting, feel free to reach out to me at sambhav.khanna@uwaterloo.ca.
 
 ```poetry
 - Sambhav :)
