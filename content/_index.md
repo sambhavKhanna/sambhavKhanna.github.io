@@ -56,8 +56,8 @@ tags:
       </div>
   </div>
   <div>
-    <figure class="header__photo-wrapper">
-        <img src="image.png" alt="a picture of sambhav" style="width: 190px; height: 280px; opacity: 1;" />
+    <figure>
+        <img src="image.png" alt="a picture of sambhav" style="width: 215px; height: 300px; opacity: 1; border-radius: 0px;" />
     </figure>
   </div>
 </div>

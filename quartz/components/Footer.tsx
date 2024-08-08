@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          Made with ❤️ by Sambhav Khanna. Made using <a href="https://github.com/jackyzha0/quartz">Quartz v{version}</a> © {year}.
+          Made with ❤️ by Sambhav Khanna.
         </p>
       </footer>
     )
