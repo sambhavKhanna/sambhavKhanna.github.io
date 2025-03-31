@@ -12,8 +12,6 @@ tags:
       <br>
       Faculty of Mathematics
       <br>
-      he/him
-      <br>
       <br>
       <a href="mailto:sambhav.khanna@uwaterloo.ca">sambhav.khanna@uwaterloo.ca</a>
       <br>
@@ -57,7 +55,7 @@ tags:
   </div>
   <div>
     <figure>
-        <img src="image.png" alt="a picture of sambhav" style="width: 215px; height: 300px; opacity: 1; border-radius: 0px;" />
+        <img src="image.png" alt="a picture of sambhav" style="width: 270px; height: 310px; opacity: 1; border-radius: 5px;" />
     </figure>
   </div>
 </div>
@@ -66,15 +64,13 @@ tags:
 ```poetry
 Welcome!
 ```
-👋 Hi, my name is Sambhav Khanna and I'm a third-year student at the **University of Waterloo**, majoring in **Computer Science**, with a specialization in Artificial Intelligence, and **expected to graduate in the Spring of 2027**. The details of the courses I have taken so far can be found at, [[courses|courses]].
+👋 Hi, my name is Sambhav Khanna and I'm a third-year student at the **University of Waterloo**, majoring in **Computer Science**, and **expected to graduate in the Spring of 2027**. The details of the courses I have taken so far can be found at, [[courses|courses]].
 
-💻 I'm proficient in full-stack development, leveraging Python, Node.js, C, and C++ for back-end applications, Next.js and Streamlit for front-end design, Postgres SQL, MongoDB and Firebase for database management, and Vercel, Google Cloud, AWS, and Azure for cloud hosting!
+💻 I have experience in full-stack development, leveraging Python, Node.js, Go and C# for back-end applications, Next.js, React.js and Streamlit for front-end design, BigQuery, Postgres, MongoDB and Firebase for database management, and Vercel, Google Cloud and AWS for cloud hosting! Some of the recent [[projects|projects]] I worked on.
 
-⭐ I'm enthusiastic about Software Development and recently I have been learning about LLMs, RAG systems, agentic systems and how AI integrated software is developed. I have used various opensource LLM APIs that I have brought locally to my machine using Ollama and Docker. I have also worked with multi-modal LLM APIs including Gemini 1.5 Pro, GPT-4-turbo. The details of the projects I have made so far can be found at, [[projects|projects]].
+💼 I have successfully completed 3 internships so far and currently interning at Geotab as a Software Engineer Intern. The complete details of my work [[experience|experiences]].
 
-💼 I have successfully completed two internships so far and currently interning at Radical AI as a SWE intern, working on their AI agent. I'm working with Next.js and Python, developing their function calling pipeline. The complete details of my work experiences can be found at, [[experience|experiences]].
-
-✍️ In my free time, I like to sketch, paint, play badminton and listen to rap (J Cole is the 🐐). I also enjoy participating in hackathons and building creative solutions to everyday problems. Some of my artwork can be found at, [[artwork|artwork]].
+✍️ In my free time, I like to sketch, paint, play badminton and listen to rap. I also enjoy participating in hackathons and building creative solutions to everyday problems. Some of my [[artwork|artwork]].
 
 📖 In my final year at highschool, I competed in the Joint Entrance Exam(JEE) Mains and Advanced, which are admission tests for the Indian Institute of Technology(IIT). I received a rank of 3,890 out of 1,026,799 (in top 0.43%) in JEE Mains and a rank of 5,161 out of 155,538 (in top 3.3%) in JEE Advanced, getting selected into IIT Kharargpur for Mechanical Engineering.
 

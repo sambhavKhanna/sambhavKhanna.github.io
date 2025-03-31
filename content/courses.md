@@ -2,6 +2,22 @@
 title: "Courses"
 ---
 
+<h2>Fall 2025</h2>
+<ul>
+<li>
+<b>CS 350</b> - Operating Systems
+</li>
+<li>
+<b>CS 341</b> - Algorithms
+</li>
+<li>
+<b>CS 370</b> - Numerical Computation
+</li>
+<li>
+<b>CO 487</b> - Cryptography
+</li>
+</ul>
+
 <h2>Winter 2024</h2>
 <ul>
 <li>

@@ -8,6 +8,32 @@ title: "Experiences"
 
 <div style="display: flex; justify-content: space-between;">
     <div>
+    <b>Geotab</b>, Waterloo
+    </div>
+    <div>
+    Jan 2025 – Apr 2025
+    </div>
+</div>
+
+<ul>
+<li>Optimized Terraform code to reduce pod count for 50 microservices in development, cutting CPU usage by 30%.
+</li>
+<li>Resolved a data race in a core service, preventing cascading failures, and implemented SQL and Redis health
+checks for 10 services to enable automatic pod recycling.
+</li>
+<li>Integrated Sentry for error reporting, enhancing debugging for 100+ engineers, redacted PII from GCP and Sentry
+logs for compliance, and created Grafana dashboards for real-time error monitoring.
+</li>
+<li>Migrated and tested services from .NET 8.0 to .NET 9.0, developed functional and unit tests to improve test
+coverage, and built data mappers for JSON RPC and gRPC signals from Tesla, Ford, and other manufacturers.
+</ul>
+
+<br>
+
+**Software Engineer Intern**
+
+<div style="display: flex; justify-content: space-between;">
+    <div>
     <b>Tallgeese AI</b>, San Jose
     </div>
     <div>
@@ -18,12 +44,12 @@ title: "Experiences"
 <ul>
 <li>Implemented accuracy evaluation pipeline to assess agent responses, integrating it with GitHub CI/CD actions.
 </li>
-<li>Performed speed and accuracy benchmark tests for Chroma and Milvus, and added support for parallel requests.
+<li>Developed an LRU semantic cache using Redis to store agent responses, reducing queries sent to LLM by 30%.
 </li>
 <li>Enhanced language support for Chinese by resolving function-calling errors, leading to 77% increase in accuracy.
 </li>
-<li>Resolved critical issues in document ingestion and chunking, resulting in a 96% accuracy improvement and a
-significant increase in user adoption.
+<li>Resolved critical issues in document ingestion and chunking, resulting in a 96% improvement in accuracy and a
+70% increase in user adoption, which led to 20+ new enterprise clients including Intel.
 </li>
 </ul>
 
